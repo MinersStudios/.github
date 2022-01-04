@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <h1 class="h2 lh-condensed">MinersStudios</h1>
   <a href="https://stdrp.ga/discord">
     <img src="https://discordapp.com/api/guilds/704273784378753124/widget.png?style=shield" alt="Discord">
   </a>
