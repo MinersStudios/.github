@@ -11,10 +11,8 @@
   </a>
 </p>
 
-  <p align="center">
-  <div class="color-fg-muted">
+  <p align="center" style="color: var(--color-fg-muted) !important;">
     The game development team creates quality content with an emphasis on quality. Currently creating plugins for "Unknown-Server"
-    </div>
   </p>
 
   
