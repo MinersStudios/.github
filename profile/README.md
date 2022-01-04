@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MinersStudios/.github/main/assets/logo_white.png" alt="MinersStudios">
+  <img src="https://raw.githubusercontent.com/MinersStudios/.github/main/assets/logo_white.png" alt="MinersStudios" style="max-width: 14%;">
 </p>
 
 <p align="center">
