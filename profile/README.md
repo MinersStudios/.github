@@ -11,11 +11,12 @@
   </a>
 </p>
 
-<div class="color-fg-muted">
   <p align="center">
+  <div class="color-fg-muted">
     The game development team creates quality content with an emphasis on quality. Currently creating plugins for "Unknown-Server"
+    </div>
   </p>
-</div>
+
   
 
 
