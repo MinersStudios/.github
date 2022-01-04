@@ -10,11 +10,6 @@
     <img src="https://img.shields.io/badge/MinersStudios-%23FF0000.svg?style=shield&logo=YouTube&logoColor=white" alt="Code-Size">
   </a>
 </p>
-
-  <p align="center">
-    The game development team creates quality content with an emphasis on quality. Currently creating plugins for "Unknown-Server"
-  </p>
-
-  
-
-
+<p align="center">
+  The game development team creates quality content with an emphasis on quality. Currently creating plugins for "Unknown-Server"
+</p>
