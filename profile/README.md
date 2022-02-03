@@ -11,5 +11,5 @@
   </a>
 </p>
 <p align="center">
-  The game development team creates quality content with an emphasis on quality. Currently creating plugins for "Unknown-Server"
+  The game development team creates quality content with an emphasis on quality. Currently creating plugins for WhoMine
 </p>
