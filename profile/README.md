@@ -11,5 +11,5 @@
   </a>
 </p>
 <p align="center">
-  The game development team creates quality content. Currently creating plugins for WhoMine
+  The game development team that creates quality content. Currently creating plugins for WhoMine
 </p>
