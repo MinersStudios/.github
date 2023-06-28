@@ -1,6 +1,8 @@
+<br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/MinersStudios/.github/main/assets/logos/logo_white.png" alt="MinersStudios">
 </p>
+<br>
 
 <p align="center">
   <a href="https://whomine.net/discord">
@@ -13,3 +15,4 @@
 <p align="center">
   The game development team that creates quality content. Currently creating plugins for WhoMine
 </p>
+<br>
